@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Md Munna</h1>
-<h3 align="center">A passionate frontend developer from bangladesh ba India</h3>
+<h3 align="center">A passionate frontend developer from bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-munna-khan&label=Profile%20views&color=0e75b6&style=flat" alt="md-munna-khan" /> </p>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **development**
 
-- 🌱 I’m currently learning **html,css**
+- 🌱 I’m currently learning **html,css,java Script, React**
 
 - 📫 How to reach me **mk8761174@gamil.com**
 
