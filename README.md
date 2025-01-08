@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm Munaa</h1>
 
 ###
 
-<h2 align="left">My name is  Munna and I'm from Bangladesh</h2>
+<h2 align="left">A passionate MERN Stack developer from Bangladesh</h2>
 
 ###
 
