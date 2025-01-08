@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Connect With Me</p>
+<h2 align="left">Connect With Me</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">My States</p>
+<h2 align="left">My States</h2>
 
 ###
 
