@@ -1,80 +1,84 @@
-## Hi there 👋
+<div align="center">
+  <img height="218" src="https://private-user-images.githubusercontent.com/161354338/400981152-3d7a6d88-809b-43b3-8815-5081c2ff7be8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYzMDM1NDEsIm5iZiI6MTczNjMwMzI0MSwicGF0aCI6Ii8xNjEzNTQzMzgvNDAwOTgxMTUyLTNkN2E2ZDg4LTgwOWItNDNiMy04ODE1LTUwODFjMmZmN2JlOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwOFQwMjI3MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MGRlZTQxMmRiZjc5ZWM5ZmJiYzNmZjhmZmMwNDUwNzk0MWQ5NDg0MTIzOTllMjM3NzY4MTFhOTUxYWExMTBkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FG9oKaabRzRPUNH1ibMX-p8207H_XkPnmZM77XkSkEU"  />
+</div>
 
-<!--
-**md-munna-khan/md-munna-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
+<h2 align="left">My name is  Munna and I'm from Bangladesh</h2>
 
-<h1 align="center">Hi 👋, I'm Md Munna Fronted Devoloper</h1>
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-munna-khan&label=Profile%20views&color=0e75b6&style=flat" alt="md-munna-khan" /> </p>
+<h2 align="left">About me</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-munna-khan" alt="md-munna-khan" /></a> </p>
+###
 
-- 🔭 I’m currently working on **development**
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently working some full stack Project<br>🎯 Goals: ... Became a full stack Developer<br>🎲 Fun fact: ... I Love Learning</p>
 
-- 🌱 I’m currently learning **html,css,java Script, React**
+###
 
-- 📫 How to reach me **mk8761174@gamil.com**
+<p align="left">I am studying in an Islamic academy, but my passion lies in programming. That’s why I embarked on my programming journey. It hasn’t been an easy path for me, as I have to balance my regular academic classes, work, and programming all at the same time. Last year, I made the bold decision to resign from my job to dedicate myself fully to learning programming, and I am still on this journey.<br><br>I love hard work and always remain patient, knowing that persistence will lead to success.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/md.munna" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md.munna" height="30" width="40" />
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+<p align="left">Connect With Me</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/munna-mia-9b43422b9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/md.munna" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.munna" height="30" width="40" />
+  <a href="https://x.com/munnaKhan140695" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100024010906640" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.munna" height="30" width="40" />
+  <a href="munna088559" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</p>
-
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<img align="right" alt="coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://wa.me/01954288782" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://www.facebook.com/md.munna.362879" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/ic
+</div>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-munna-khan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-munna-khan&show_icons=true&locale=en&layout=compact" alt="md-munna-khan" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&locale=en" alt="md-munna-khan" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/md-munna-khan/count.svg?"  />
+</div>
+
+###
