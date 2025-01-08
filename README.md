@@ -86,7 +86,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/md-munna-khan/md-munna-khan/output/snake.svg" alt="Snake animation" />
-
-###
