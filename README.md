@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently working some full stack Project<br>🎯 Goals: ... Became a full stack Developer<br>🎲 Fun fact: ... I Love Learning</p>
+<p align="left">📫 How to reach me mk8761174@gmail.com<br>✨ Creating bugs since ...<br>📚 I'm currently working some full stack Project<br>🎯 Goals: ... Became a full stack Developer<br>🎲 Fun fact: ... I Love Learning</p>
 
 ###
 
