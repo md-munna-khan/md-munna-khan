@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/MZGfKFg/my-profile-image-2025-01-08-at-08-10-24-33e4f7ee.jpg"  />
+  <img height="200" src="https://i.ibb.co.com/MZGfKFg/my-profile-image-2025-01-08-at-08-10-24-33e4f7ee.jpg](https://i.ibb.co.com/w0NNLdk/Screenshot-2025-01-24-102422.png"  />
 </div>
-
 ###
 
 <h1 align="left">Hi 👋, I'm Munaa</h1>
