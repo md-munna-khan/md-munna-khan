@@ -1,9 +1,8 @@
 <div align="center">
-  <img height="1000" src="https://i.ibb.co.com/xfKXZRP/Screenshot-2025-01-24-102654.png"  />
+  <img src="https://i.ibb.co/xfKXZRP/Screenshot-2025-01-24-102654.png" alt="Banner Image" />
 </div>
-###
 
-<h1 align="left">Hi 👋, I'm Munaa</h1>
+<h1 align="left">Hello, what's up? Welcome to my GitHub profile!</h1>
 
 ###
 
@@ -51,37 +50,4 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/munna-mia-9b43422b9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/munnaKhan140695" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="munna088559" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/01954288782" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/md.munna.362879" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">My States</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-munna-khan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/md-munna-khan/count.svg?"  />
-</div>
-
-###
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height=
