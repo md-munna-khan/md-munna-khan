@@ -8,7 +8,7 @@
 
 ### 🛠️ About Me
 
-- 📫 How to reach me: **mk8761174@gmail.com**
+- 📫 How to reach me: **munnamia0200@gmail.com**
 - ✨ Creating bugs since ... 😆
 - 📚 Currently working on **Full Stack Projects**
 - 🎯 Goal: **Become a Pro Full Stack Developer**
