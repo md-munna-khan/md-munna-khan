@@ -1,80 +1,75 @@
 <div align="center">
-  <img src="https://i.ibb.co/xfKXZRP/Screenshot-2025-01-24-102654.png" alt="Banner Image" width="100%" style="border-radius: 10px;" />
-  <h1>👋 Hi, I'm Md Munna K</h1>
-  <h3>🚀 MERN Stack Developer from Bangladesh</h3>
-  <p>Crafting web apps | Learning tech | Balancing code & life</p>
+  <img src="https://i.ibb.co/xfKXZRP/Screenshot-2025-01-24-102654.png" alt="Banner" />
 </div>
 
----
+# 👋 Hey there! I'm Munna Khan
 
-## 🌟 About Me
-
-I'm a passionate MERN Stack Developer studying at an Islamic academy while pursuing my coding dreams. Last year, I left my job to focus on programming full-time, juggling academics and coding. My persistence and love for tech keep me moving forward! 💪
-
-- 📫 Email: **munnamia0200@gmail.com**
-- 🎯 Goal: Master Full Stack Development
-- 📚 Working on: MERN Stack Applications
-- ✨ Fun fact: I love debugging and learning new tools! 😄
-- 💡 Motto: *Hard work + Patience = Success*
+### 🚀 Passionate Full Stack Developer | MERN Stack Enthusiast | Lifelong Learner
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-Tools and technologies I use to build awesome apps:
+I’m a dedicated and self-taught **Full Stack Developer** from **Bangladesh**, currently mastering **PostgreSQL** after diving deep into **TypeScript**. Alongside my academic studies at an Islamic institution, I made a bold decision to leave my job and pursue my dream of becoming a professional developer.
+
+> 💡 _"Patience, hard work, and continuous learning are the keys to mastering any skill."_  
+
+- 🧑‍💻 Currently working on: **Full Stack Projects using TypeScript and PostgreSQL**
+- 🎯 Goal: **Become a Pro Full Stack Developer**
+- 🌱 Learning: **PostgreSQL | Advanced Backend Patterns**
+- 🐞 Fun Fact: Creating bugs faster than I fix them 😆
+- 📫 Reach me at: **munnamia0200@gmail.com**
+
+---
+
+## 💻 Tech Stack & Tools
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-
----
-
-## 💪 My Coding Streak
-
-Consistency is key! Check out my GitHub contribution streak, showcasing my dedication to coding daily:
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-munna-khan&theme=dracula&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-munna-khan&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-munna-khan&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-munna-khan&layout=compact&theme=radical" height="150" />
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/md-munna-khan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   </a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/munna-mia-9b43422b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
   </a>
-</div>
-
----
-
-## 🌱 What's Next?
-
-I’ve mastered **TypeScript** and am currently learning **PostgreSQL** to level up my backend skills. Next, I’m diving into **Next.js** and **Docker** for scalable apps. Got project ideas or collabs? Let’s connect! 🚀
-
-<div align="center">
-  <p>⭐ Thanks for visiting! Keep coding and stay curious! ⭐</p>
-  <img src="https://komarev.com/ghpvc/?username=md-munna-khan&style=flat&color=blue" alt="Profile Views" />
 </div>
