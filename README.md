@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/xfKXZRP/Screenshot-2025-01-24-102654.png" alt="Banner Image" />
+ <img src="https://i.ibb.co/GvsCs4b0/your-image-name.jpg" alt="Main Banner Image" />
 </div>
 
 # 👋 Hey there, I'm Munna!
