@@ -1,6 +1,7 @@
 <div align="center">
- <img src="https://i.ibb.co/GvsCs4b0/your-image-name.jpg" alt="Main Banner Image" />
+  <img src="https://i.postimg.cc/PJZ0kb93/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="GitHub Banner" />
 </div>
+
 
 # 👋 Hey there, I'm Munna!
 
