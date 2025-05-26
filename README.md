@@ -1,107 +1,59 @@
-<div align="center">
-  <img src="https://i.postimg.cc/PJZ0kb93/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="GitHub Banner" />
-</div>
-
-
-# 👋 Hey there, I'm Munna!
-
-## 👨‍💻 WHO AM I?
-
-Hey! I'm a **Full Stack Web Developer** who still googles how to center a `<div>`, but somehow manages to build cool things while doing it 😎.
-
-I’m powered by:
-- ☕ Late-night caffeine
-- 🧠 Relentless curiosity
-- 🍪 Debugging snacks
-
-I write code that *sometimes* works on the first try (rare footage), but most of the time it’s just me vs the terminal until the bug taps out.
+<h1 align="center">Hi 👋, I'm Munna Khan</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast | Islamic Scholar</h3>
 
 ---
 
-## 🛠️ TECHS I USE
-
-**Frontend Magic**  
-HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js • Tailwind CSS
-
-**Backend Sorcery**  
-Node.js • Express.js • MongoDB • Mongoose • JWT
-
-**Authentication & Hosting**  
-Firebase Auth • Vercel • Render
-
-**Dev Side Quests**  
-Git/GitHub • Postman • VS Code
+### 💻 About Me:
+- 🔭 Currently working on: **Micro Tasking & Earning Platform (MERN Stack)**
+- 🌱 Learning: **Microservices, Docker, Next.js**
+- 👯 Looking to collaborate on: **Open-source & impactful projects**
+- 💬 Ask me about: **React, Node.js, MongoDB, Firebase**
+- 📫 Email: **mk8761174@gmail.com**
+- ⚡ Fun fact: *I'm a Hafiz & love mixing tech with productivity!*
 
 ---
 
-## 📚 CURRENTLY LEARNING
+### 🛠️ Tech Stack:
+**Frontend:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
 
-- 🔷 **Next.js + TypeScript** – feels like a dance, but I keep stepping on my own feet
-- 🧩 **Mongoose** – helping, maybe? But my data still plays hide and seek
-- 🟨 **PostgreSQL** – why does it feel like I'm yelling into the void?
-- 🔌 **Prisma** – pretending I know what a migration is 🤷‍♂️
-- ☁️ **AWS** – renting a spaceship when I just need a bicycle 🚀
+**Backend & DB:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
+
+**Others:**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify)
 
 ---
 
-## 💻 TECH STACKS
+### 📈 GitHub Stats:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&theme=dracula" alt="stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-munna-khan&theme=dracula" alt="streak" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-munna-khan&layout=compact&theme=dracula" alt="languages" />
 </p>
 
 ---
 
-## 🔗 SOCIALS
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/munna-mia-9b43422b9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:munnamia0200@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Email"/>
-  </a>
-  <a href="https://github.com/md-munna-khan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  </a>
-  <a href="https://dev.to/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" alt="Dev.to"/>
-  </a>
-  <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40" alt="Stack Overflow"/>
-  </a>
-</div>
+### 🐍 Contribution Snake:
+![snake gif](https://github.com/md-munna-khan/md-munna-khan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📊 GITHUB STATS
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-munna-khan&theme=radical" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-munna-khan&layout=compact&theme=radical" height="160" alt="Top Languages" />
-</div>
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/munna-mia)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/md-munna-khan)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:mk8761174@gmail.com)
 
 ---
 
-⭐ **Thanks for stopping by! Stay curious, keep building, and never stop debugging.** 🔥
+> ✨ “I believe in writing clean code, maintaining Islamic values, and always growing as a developer.” — *Munna Khan*
