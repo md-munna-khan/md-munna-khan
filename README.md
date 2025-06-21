@@ -3,7 +3,7 @@
 
 # 👋 Hey there, I'm Munna Khan!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&duration=4000&pause=1000&color=F7F7F7&center=false&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Problem+Solver;MERN+Stack+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&duration=4000&pause=1000&color=00ADB5&center=false&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Problem+Solver;MERN+Stack+Engineer)
 
 ---
 
@@ -11,9 +11,9 @@
 
 I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** dedicated to crafting seamless, scalable, and user-friendly web applications.
 
-- 💻 I specialize in both **frontend** and **backend** development using modern stacks like **React.js**, **Next.js**, **Node.js**, and **MongoDB**.  
-- ✨ I value clean code, optimized performance, and meaningful user experiences.  
-- 🔍 Currently exploring **PostgreSQL**, **Prisma**, and **AWS** to level up my backend skills.
+- 💻 I specialize in both **frontend** and **backend** development using modern stacks like **React.js**, **Next.js**, **Node.js**, and **MongoDB**  
+- ✨ I value clean code, optimized performance, and meaningful user experiences  
+- 🔍 Currently exploring **PostgreSQL**, **Prisma**, and **AWS** to level up my backend skills
 
 ---
 
@@ -69,11 +69,11 @@ I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** d
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-munna-khan&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-munna-khan&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-munna-khan&theme=radical" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-munna-khan&layout=compact&theme=radical" height="160" alt="Top Languages" />
+</p>
 
 ---
 
@@ -85,4 +85,4 @@ I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** d
 
 ## 🙏 Thank You
 
-![Thanks](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+connect+and+build+great+things+🚀;)
+![Thanks Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+connect+and+build+great+things+🚀;)
