@@ -20,7 +20,7 @@ I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** d
 ## 📬 Contact Me
 
 - 📧 Email: [mk8761174@gmail.com](mailto:mk8761174@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/munna-mia-9b43422b9](https://www.linkedin.com/in/munna-mia/)](https://www.linkedin.com/in/munna-mia/)](https://www.linkedin.com/in/munna-mia-9b43422b9)  
+- 💼 LinkedIn: [linkedin.com/in/munna-mia](https://www.linkedin.com/in/munna-mia/)  
 - 🐱 GitHub: [github.com/md-munna-khan](https://github.com/md-munna-khan)
 
 ---
