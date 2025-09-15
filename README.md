@@ -19,7 +19,7 @@ I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** d
 
 ## 📬 Contact Me
 
-- 📧 Email: [mk8761174@gmail.com](mailto:mk8761174@gmail.com)  
+- 📧 Email: [munnamia0200@gmail.com.com](mailto:munnamia0200@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/munna-mia](https://www.linkedin.com/in/munna-mia/)  
 - 🐱 GitHub: [github.com/md-munna-khan](https://github.com/md-munna-khan)
 
@@ -34,7 +34,8 @@ I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** d
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)  
 ![Mongoose](https://img.shields.io/badge/Mongoose-ODM-47A248?style=for-the-badge&logo=mongoose&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 **Authentication & Hosting**  
 ![Firebase](https://skillicons.dev/icons?i=firebase)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
