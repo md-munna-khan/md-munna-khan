@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** dedicated to crafting seamless, scalable, and user-friendly web applications.
+I'm **MD Munna**, a passionate and professional **Full Stack Web Developer** dedicated to crafting seamless, scalable, and user-friendly web applications.
 
 -  I specialize in both **frontend** and **backend** development using modern stacks like **React.js**, **Next.js**, **Node.js**, and **MongoDB**  
 -  I value clean code, optimized performance, and meaningful user experiences  
@@ -27,31 +27,47 @@ I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** d
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
----
+
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development  
+###  Frontend Development  
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,nextjs)
-- **UI Frameworks:** Tailwind CSS, Bootstrap  
+![Shadcn](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![MagicUI](https://img.shields.io/badge/Magic%20UI-0EA5E9?style=for-the-badge&logo=magic&logoColor=white)
+![FramerMotion](https://img.shields.io/badge/Framer%20Motion-EF4444?style=for-the-badge&logo=framer&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-4F46E5?style=for-the-badge&logo=clerk&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+- **UI Frameworks:** Tailwind CSS, Shadcn/UI, Magic UI  
 - **State Management:** Context API, Redux  
 - **Form Handling:** React Hook Form, Zod  
-
+- **Authentication:** Clerk, NextAuth 
 ---
 
 ### ⚙️ Backend Development  
+
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma)
 ![Mongoose](https://img.shields.io/badge/Mongoose-ODM-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Data%20Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport.js-Auth-34D058?style=for-the-badge&logo=passport&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-Mailer-009688?style=for-the-badge&logo=gmail&logoColor=white)
+
 - **Databases:** MongoDB, PostgreSQL  
 - **ORMs:** Prisma, Mongoose  
-- **API Design:** RESTful APIs, Secure Auth (JWT/Firebase)  
+- **Authentication:** JWT, Passport.js, Firebase  
+- **Caching & Performance:** Redis  
+- **API Design:** RESTful APIs, Secure Auth Middleware  
+
 
 ---
 
 ### ☁️ DevOps & Deployment  
 ![Tools](https://skillicons.dev/icons?i=docker,aws,firebase,vercel,render,git,github,postman,vscode)
-- **Deployment:** Vercel, Render  
+- **Deployment:** Vercel  
 - **Version Control:** Git & GitHub  
 
 ---
