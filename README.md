@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Munna Khan Banner](https://i.postimg.cc/PJZ0kb93/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png)
 
-# 👋 Hey there, I'm Munna Khan!
+#  Hey there, I'm Md Munna !
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&duration=4000&pause=1000&color=00ADB5&center=false&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Problem+Solver;MERN+Stack+Engineer)
 
@@ -11,9 +11,9 @@
 
 I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** dedicated to crafting seamless, scalable, and user-friendly web applications.
 
-- 💻 I specialize in both **frontend** and **backend** development using modern stacks like **React.js**, **Next.js**, **Node.js**, and **MongoDB**  
-- ✨ I value clean code, optimized performance, and meaningful user experiences  
-- 🔍 Currently exploring **PostgreSQL**, **Prisma**, and **AWS** to level up my backend skills
+-  I specialize in both **frontend** and **backend** development using modern stacks like **React.js**, **Next.js**, **Node.js**, and **MongoDB**  
+-  I value clean code, optimized performance, and meaningful user experiences  
+-  Currently exploring **PostgreSQL**, **Prisma**, and **AWS** to level up my backend skills
 
 ---
 
@@ -22,38 +22,47 @@ I'm **Munna Khan**, a passionate and professional **Full Stack Web Developer** d
 - 📧 Email: [munnamia0200@gmail.com.com](mailto:munnamia0200@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/munna-mia](https://www.linkedin.com/in/munna-mia/)  
 - 🐱 GitHub: [github.com/md-munna-khan](https://github.com/md-munna-khan)
+  
+---
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development  
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,nextjs)
+- **UI Frameworks:** Tailwind CSS, Bootstrap  
+- **State Management:** Context API, Redux  
+- **Form Handling:** React Hook Form, Zod  
 
 ---
 
-## 🛠️ Techs I Use
-
-**Frontend Magic**  
-![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs)
-
-**Backend Sorcery**  
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)  
-![Mongoose](https://img.shields.io/badge/Mongoose-ODM-47A248?style=for-the-badge&logo=mongoose&logoColor=white)  
+### ⚙️ Backend Development  
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma)
+![Mongoose](https://img.shields.io/badge/Mongoose-ODM-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+- **Databases:** MongoDB, PostgreSQL  
+- **ORMs:** Prisma, Mongoose  
+- **API Design:** RESTful APIs, Secure Auth (JWT/Firebase)  
 
-**Authentication & Hosting**  
-![Firebase](https://skillicons.dev/icons?i=firebase)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+---
 
-**Dev Side Quests**  
-![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
+### ☁️ DevOps & Deployment  
+![Tools](https://skillicons.dev/icons?i=docker,aws,firebase,vercel,render,git,github,postman,vscode)
+- **Deployment:** Vercel, Render  
+- **Version Control:** Git & GitHub  
 
 ---
 
 ## 📚 Currently Learning
 
-- 🔷 **Next.js + TypeScript** – feels like a dance, but I keep stepping on my own feet  
-- 🧩 **Mongoose** – helping, maybe? But my data still plays hide and seek  
-- 🟨 **PostgreSQL** – why does it feel like I'm yelling into the void?  
-- 🔌 **Prisma** – pretending I know what a migration is 🤷‍♂️  
-- ☁️ **AWS** – renting a spaceship when I just need a bicycle 🚀
+- 🐳 **Docker** – because containers make life easier  
+- ☁️ **AWS** – learning to scale applications efficiently  
+- 🔷 **Next.js + TypeScript** – enhancing performance and type safety  
+- 🧩 **Prisma + PostgreSQL** – modern database architecture  
+
 
 ---
 
