@@ -96,13 +96,22 @@ I'm **MD Munna**, a passionate and professional **Full Stack Web Developer** ded
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&theme=radical" height="160" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-munna-khan&theme=radical" height="160" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-munna-khan&layout=compact&theme=radical" height="160" alt="Top Languages" /> </p> ---
+<p align="center">
+  <!-- Total Stats & Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=md-munna-khan&show_icons=true&count_private=true&theme=dracula&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=ff79c6" height="160" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-munna-khan&theme=dark&hide_border=false&stroke=58a6ff&background=0d1117&ring=ff79c6" height="160" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-munna-khan&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff" height="160" alt="Top Languages" />
+</p>
+
+---
 
 ## 🧩 GitHub Profile Summary
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-munna-khan&theme=github_dark&hide_border=true)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-munna-khan&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff)
 
----
 
 ## 🙏 Thank You
 
