@@ -100,8 +100,7 @@ I'm **MD Munna**, a passionate and professional **Full Stack Web Developer** ded
 
 ## 🧩 GitHub Profile Summary
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-munna-khan&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff)
-
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-munna-khan&theme=github_dark&hide_border=true)
 
 ## 🙏 Thank You
 
