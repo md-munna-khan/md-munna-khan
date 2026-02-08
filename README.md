@@ -95,12 +95,15 @@ I'm **MD Munna**, a passionate and professional **Full Stack Web Developer** ded
 ---
 ## 📊 GitHub Stats
 
-<p align="center"> 
+<!-- <p align="center"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-munna-khan&theme=city_lights" height="160" alt="GitHub Stats" /> 
 <img src="https://nirzak-streak-stats.vercel.app?user=md-munna-khan&theme=github-dark-dimmed" height="160" alt="GitHub Streak" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-munna-khan&theme=city_lights" height="160" alt="Top Languages" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-munna-khan&theme=city_lights&hide_border=true" height="160" alt="Top Languages" /> </p>
-
+ -->
+ <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=md-munna-khan&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
 
 <!-- ## 🧩 GitHub Profile Summary
 
